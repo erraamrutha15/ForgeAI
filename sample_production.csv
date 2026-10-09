@@ -1,0 +1,6 @@
+machine,processing_time_min,utilization_pct,downtime_min,units_completed
+Cutting,7,72,8,420
+Drilling,9,81,12,380
+Assembly,18,96,22,210
+Painting,12,88,15,300
+Packaging,6,65,5,450
